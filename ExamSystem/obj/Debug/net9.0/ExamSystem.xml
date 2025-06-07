@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ExamSystem</name>
+    </assembly>
+    <members>
+        <member name="T:ExaminationSystem.ExamMode">
+            <summary>
+            Enum to represent the exam mode.
+            </summary>
+        </member>
+        <member name="T:ExaminationSystem.Student">
+            <summary>
+            Represents a student who can receive notifications.
+            </summary>
+        </member>
+        <member name="T:ExaminationSystem.Subject">
+            <summary>
+            Represents the subject associated with an exam.
+            </summary>
+        </member>
+        <member name="T:ExaminationSystem.Question">
+            <summary>
+            Base class for all questions.
+            </summary>
+        </member>
+        <member name="T:ExaminationSystem.QuestionList">
+            <summary>
+            Represents a list of questions with file logging.
+            </summary>
+        </member>
+        <member name="T:ExaminationSystem.Answer">
+            <summary>
+            Represents a single answer.
+            </summary>
+        </member>
+        <member name="T:ExaminationSystem.AnswerList">
+            <summary>
+            Represents a list of answers.
+            </summary>
+        </member>
+        <member name="T:ExaminationSystem.Exam">
+            <summary>
+            Base exam class.
+            </summary>
+        </member>
+        <member name="T:ExaminationSystem.FinalExam">
+            <summary>
+            Final exam class that shows answers after finishing.
+            </summary>
+        </member>
+        <member name="T:ExaminationSystem.Program">
+            <summary>
+            Main program to test the exam system.
+            </summary>
+        </member>
+    </members>
+</doc>

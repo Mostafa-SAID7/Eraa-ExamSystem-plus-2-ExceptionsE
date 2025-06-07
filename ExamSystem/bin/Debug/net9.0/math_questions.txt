@@ -1,0 +1,2 @@
+Q1: 2 is even? (1 Marks)
+Q2: Best programming language? (2 Marks)

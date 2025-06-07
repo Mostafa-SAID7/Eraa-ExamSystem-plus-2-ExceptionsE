@@ -1,0 +1,14 @@
+C:\Users\Mostafa\Desktop\prjs\C# prjs\DuplicateNumberException\bin\Debug\net9.0\DuplicateNumberException.exe
+C:\Users\Mostafa\Desktop\prjs\C# prjs\DuplicateNumberException\bin\Debug\net9.0\DuplicateNumberException.deps.json
+C:\Users\Mostafa\Desktop\prjs\C# prjs\DuplicateNumberException\bin\Debug\net9.0\DuplicateNumberException.runtimeconfig.json
+C:\Users\Mostafa\Desktop\prjs\C# prjs\DuplicateNumberException\bin\Debug\net9.0\DuplicateNumberException.dll
+C:\Users\Mostafa\Desktop\prjs\C# prjs\DuplicateNumberException\bin\Debug\net9.0\DuplicateNumberException.pdb
+C:\Users\Mostafa\Desktop\prjs\C# prjs\DuplicateNumberException\obj\Debug\net9.0\DuplicateNumberException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa\Desktop\prjs\C# prjs\DuplicateNumberException\obj\Debug\net9.0\DuplicateNumberException.AssemblyInfoInputs.cache
+C:\Users\Mostafa\Desktop\prjs\C# prjs\DuplicateNumberException\obj\Debug\net9.0\DuplicateNumberException.AssemblyInfo.cs
+C:\Users\Mostafa\Desktop\prjs\C# prjs\DuplicateNumberException\obj\Debug\net9.0\DuplicateNumberException.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa\Desktop\prjs\C# prjs\DuplicateNumberException\obj\Debug\net9.0\DuplicateNumberException.dll
+C:\Users\Mostafa\Desktop\prjs\C# prjs\DuplicateNumberException\obj\Debug\net9.0\refint\DuplicateNumberException.dll
+C:\Users\Mostafa\Desktop\prjs\C# prjs\DuplicateNumberException\obj\Debug\net9.0\DuplicateNumberException.pdb
+C:\Users\Mostafa\Desktop\prjs\C# prjs\DuplicateNumberException\obj\Debug\net9.0\DuplicateNumberException.genruntimeconfig.cache
+C:\Users\Mostafa\Desktop\prjs\C# prjs\DuplicateNumberException\obj\Debug\net9.0\ref\DuplicateNumberException.dll
