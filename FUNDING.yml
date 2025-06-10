@@ -1,12 +1,27 @@
-# These are supported funding model platforms
+# =====================================================================
+# 💸 FUNDING CONFIGURATION FILE - Examination System (C# Console App)
+# This file defines the platforms you accept financial support from.
+# GitHub will display the "Sponsor" button based on these settings.
+# =====================================================================
 
+# GitHub Sponsors username
 github: [Mostafa-SAID7]
 
+# Patreon username (https://www.patreon.com/mostafasaid)
 patreon: mostafasaid
 
+# Open Collective handle (https://opencollective.com/mostafa-said)
 open_collective: mostafa-said
 
+# Ko-fi username (https://ko-fi.com/mostafasaid356)
 ko_fi: mostafasaid356
 
+# Custom direct funding links (PayPal, Stripe, BuyMeACoffee, etc.)
 custom:
   - https://www.paypal.me/mostafaSaid3
+
+# =====================================================================
+# 💡 Tip:
+# Place this file in your repository at: .github/FUNDING.yml
+# GitHub will automatically detect and display sponsor buttons.
+# =====================================================================
