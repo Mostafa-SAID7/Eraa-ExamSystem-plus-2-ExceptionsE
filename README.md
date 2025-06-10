@@ -5,7 +5,7 @@ This project is a console-based Examination System written in C#. It allows teac
 ---
 
 ## 📂 Project Structure
-
+```
 ExaminationSystem/
 │
 ├── Program.cs // Entry point: initializes and runs the exam
@@ -17,7 +17,7 @@ ExaminationSystem/
 ├── Subject.cs // Basic Subject class
 ├── Enums.cs // Enum definitions (e.g., ExamMode)
 ├── README.md // Project documentation (this file)
-
+```
 ---
 
 ## 📌 Features
