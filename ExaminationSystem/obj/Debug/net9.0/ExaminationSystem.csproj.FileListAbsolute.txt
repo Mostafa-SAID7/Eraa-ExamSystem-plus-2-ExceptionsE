@@ -1,0 +1,14 @@
+C:\Users\Mostafa\Desktop\prjs\C# prjs\ExaminationSystem\ExaminationSystem\obj\Debug\net9.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa\Desktop\prjs\C# prjs\ExaminationSystem\ExaminationSystem\obj\Debug\net9.0\ExaminationSystem.AssemblyInfoInputs.cache
+C:\Users\Mostafa\Desktop\prjs\C# prjs\ExaminationSystem\ExaminationSystem\obj\Debug\net9.0\ExaminationSystem.AssemblyInfo.cs
+C:\Users\Mostafa\Desktop\prjs\C# prjs\ExaminationSystem\ExaminationSystem\obj\Debug\net9.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa\Desktop\prjs\C# prjs\ExaminationSystem\ExaminationSystem\bin\Debug\net9.0\ExaminationSystem.exe
+C:\Users\Mostafa\Desktop\prjs\C# prjs\ExaminationSystem\ExaminationSystem\bin\Debug\net9.0\ExaminationSystem.deps.json
+C:\Users\Mostafa\Desktop\prjs\C# prjs\ExaminationSystem\ExaminationSystem\bin\Debug\net9.0\ExaminationSystem.runtimeconfig.json
+C:\Users\Mostafa\Desktop\prjs\C# prjs\ExaminationSystem\ExaminationSystem\bin\Debug\net9.0\ExaminationSystem.dll
+C:\Users\Mostafa\Desktop\prjs\C# prjs\ExaminationSystem\ExaminationSystem\bin\Debug\net9.0\ExaminationSystem.pdb
+C:\Users\Mostafa\Desktop\prjs\C# prjs\ExaminationSystem\ExaminationSystem\obj\Debug\net9.0\ExaminationSystem.dll
+C:\Users\Mostafa\Desktop\prjs\C# prjs\ExaminationSystem\ExaminationSystem\obj\Debug\net9.0\refint\ExaminationSystem.dll
+C:\Users\Mostafa\Desktop\prjs\C# prjs\ExaminationSystem\ExaminationSystem\obj\Debug\net9.0\ExaminationSystem.pdb
+C:\Users\Mostafa\Desktop\prjs\C# prjs\ExaminationSystem\ExaminationSystem\obj\Debug\net9.0\ExaminationSystem.genruntimeconfig.cache
+C:\Users\Mostafa\Desktop\prjs\C# prjs\ExaminationSystem\ExaminationSystem\obj\Debug\net9.0\ref\ExaminationSystem.dll
